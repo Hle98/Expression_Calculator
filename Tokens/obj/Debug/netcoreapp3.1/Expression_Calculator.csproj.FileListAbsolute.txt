@@ -1,0 +1,13 @@
+C:\Users\Huy Le\source\repos\Tokens\Tokens\bin\Debug\netcoreapp3.1\Expression_Calculator.exe
+C:\Users\Huy Le\source\repos\Tokens\Tokens\bin\Debug\netcoreapp3.1\Expression_Calculator.deps.json
+C:\Users\Huy Le\source\repos\Tokens\Tokens\bin\Debug\netcoreapp3.1\Expression_Calculator.runtimeconfig.json
+C:\Users\Huy Le\source\repos\Tokens\Tokens\bin\Debug\netcoreapp3.1\Expression_Calculator.runtimeconfig.dev.json
+C:\Users\Huy Le\source\repos\Tokens\Tokens\bin\Debug\netcoreapp3.1\Expression_Calculator.dll
+C:\Users\Huy Le\source\repos\Tokens\Tokens\bin\Debug\netcoreapp3.1\Expression_Calculator.pdb
+C:\Users\Huy Le\source\repos\Tokens\Tokens\obj\Debug\netcoreapp3.1\Expression_Calculator.csprojAssemblyReference.cache
+C:\Users\Huy Le\source\repos\Tokens\Tokens\obj\Debug\netcoreapp3.1\Expression_Calculator.AssemblyInfoInputs.cache
+C:\Users\Huy Le\source\repos\Tokens\Tokens\obj\Debug\netcoreapp3.1\Expression_Calculator.AssemblyInfo.cs
+C:\Users\Huy Le\source\repos\Tokens\Tokens\obj\Debug\netcoreapp3.1\Expression_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Huy Le\source\repos\Tokens\Tokens\obj\Debug\netcoreapp3.1\Expression_Calculator.dll
+C:\Users\Huy Le\source\repos\Tokens\Tokens\obj\Debug\netcoreapp3.1\Expression_Calculator.pdb
+C:\Users\Huy Le\source\repos\Tokens\Tokens\obj\Debug\netcoreapp3.1\Expression_Calculator.genruntimeconfig.cache

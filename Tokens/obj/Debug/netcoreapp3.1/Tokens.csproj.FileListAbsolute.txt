@@ -1,0 +1,13 @@
+C:\Users\Huy Le\source\repos\Tokens\Tokens\obj\Debug\netcoreapp3.1\Tokens.csprojAssemblyReference.cache
+C:\Users\Huy Le\source\repos\Tokens\Tokens\obj\Debug\netcoreapp3.1\Tokens.AssemblyInfoInputs.cache
+C:\Users\Huy Le\source\repos\Tokens\Tokens\obj\Debug\netcoreapp3.1\Tokens.AssemblyInfo.cs
+C:\Users\Huy Le\source\repos\Tokens\Tokens\obj\Debug\netcoreapp3.1\Tokens.csproj.CoreCompileInputs.cache
+C:\Users\Huy Le\source\repos\Tokens\Tokens\bin\Debug\netcoreapp3.1\Tokens.exe
+C:\Users\Huy Le\source\repos\Tokens\Tokens\bin\Debug\netcoreapp3.1\Tokens.deps.json
+C:\Users\Huy Le\source\repos\Tokens\Tokens\bin\Debug\netcoreapp3.1\Tokens.runtimeconfig.json
+C:\Users\Huy Le\source\repos\Tokens\Tokens\bin\Debug\netcoreapp3.1\Tokens.runtimeconfig.dev.json
+C:\Users\Huy Le\source\repos\Tokens\Tokens\bin\Debug\netcoreapp3.1\Tokens.dll
+C:\Users\Huy Le\source\repos\Tokens\Tokens\bin\Debug\netcoreapp3.1\Tokens.pdb
+C:\Users\Huy Le\source\repos\Tokens\Tokens\obj\Debug\netcoreapp3.1\Tokens.dll
+C:\Users\Huy Le\source\repos\Tokens\Tokens\obj\Debug\netcoreapp3.1\Tokens.pdb
+C:\Users\Huy Le\source\repos\Tokens\Tokens\obj\Debug\netcoreapp3.1\Tokens.genruntimeconfig.cache
